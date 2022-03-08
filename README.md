@@ -1,4 +1,4 @@
-# cypress.js boilerplate
+# Unit Testing w/ cypress.js boilerplate
 Unit testing with cypress.js. This repo is a boilerplate to setup a javascript react application and use cypress to control the unit test.
 
 * It will include a basic react app to submit and email form.
